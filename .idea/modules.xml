@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/InherItance/InherItance.iml" filepath="$PROJECT_DIR$/InherItance/InherItance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inheritanceDemo/inheritanceDemo.iml" filepath="$PROJECT_DIR$/inheritanceDemo/inheritanceDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/kodlamaIo3Gun.iml" filepath="$PROJECT_DIR$/.idea/kodlamaIo3Gun.iml" />
+      <module fileurl="file://$PROJECT_DIR$/overriding/overriding.iml" filepath="$PROJECT_DIR$/overriding/overriding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/polymorphismDemo/polymorphismDemo.iml" filepath="$PROJECT_DIR$/polymorphismDemo/polymorphismDemo.iml" />
+    </modules>
+  </component>
+</project>
